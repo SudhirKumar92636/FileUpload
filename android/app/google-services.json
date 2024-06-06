@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118176220640",
+    "project_id": "fileupload-7f9ad",
+    "storage_bucket": "fileupload-7f9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118176220640:android:5d4684f95d4fccb4771785",
+        "android_client_info": {
+          "package_name": "com.example.fileupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSV_FNtngJp6Wo4EBfk642Djxs-fv5Sjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
