@@ -15,7 +15,6 @@ class _ShowUserInfoState extends State<ShowUserInfo> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-
         backgroundColor:Color(0xFFE383B7),
         actions: [
           ElevatedButton.icon(
@@ -72,8 +71,6 @@ class _ShowUserInfoState extends State<ShowUserInfo> {
                                   ),
                                 ),
                               SizedBox(height: 10,),
-
-
                               TextFormField(
                                 readOnly: true,
                                 initialValue: userData["Email"] ?? "",
